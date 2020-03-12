@@ -5,4 +5,5 @@ This is a Newsletter HTML Email for a nonprofit community that helps people lear
 ## Built With
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [AMP](https://amp.dev/)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/css)
